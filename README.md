@@ -391,6 +391,4 @@ Premium threat intelligence feeds and commercial security services can be integr
 
 Through this project, I successfully demonstrated enterprise-level security monitoring capabilities by integrating Suricata's advanced network intrusion detection with Wazuh's comprehensive SIEM platform. The solution I implemented provides complete network visibility, real-time threat detection, and centralized security event management suitable for production environments requiring robust security monitoring.
 
-This implementation showcases my technical proficiency across multiple domains including network security architecture, SIEM platform configuration, Linux system administration, security event correlation, and complex integration troubleshooting. The challenges I encountered and resolved demonstrate the problem-solving capabilities essential for security engineering roles.
-
 **Final Result**: I delivered a fully operational network security monitoring system featuring 44,000+ threat detection rules, sub-second alert response times, and comprehensive dashboard visibility for proactive threat hunting and incident response activities.
