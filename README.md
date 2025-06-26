@@ -1,4 +1,4 @@
-# Suricata Network IDS Integration with Wazuh SIEM
+# Suricata Network IDS/IPS Integration with Wazuh SIEM
 
 ## Overview
 
